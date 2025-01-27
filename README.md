@@ -6,4 +6,4 @@ para ejecutar el sistema debes poner:
 
 ```npm install react```
 
-Sietma de Registro 2
+Sietma de Registro 22
